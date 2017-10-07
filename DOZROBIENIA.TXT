@@ -1,0 +1,17 @@
+sass and js hinters
+sources map move to dist folder and check conf file once again
+what about src dev and dist catalog? where i have to edit my projects? SRC
+what about minifying and concatenation bootstrap and jquery?
+create customs task for:
+  create dev
+  create dist
+  optimalization images
+  only turn on watcher
+  ocasionaly i can install and configure browserify, but... for what?
+clean tabs and spaces in gulp configuration, beautyfully.io in html sass files.
+add fa icons
+add links to local file of libs when CDA is offline
+integrating taki-suwak to soda kit
+create flexbox system
+create theme or two (first without bootstrap and second with bootsstrap?)
+documentation
